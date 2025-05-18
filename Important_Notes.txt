@@ -1,0 +1,7 @@
+1.The Modifications made on the map that use the function
+getFreeColumns DO NOT AFFECT the first and last timings of the map.
+
+2.By default, if a vector is empty the getRandomColumn will always
+return 1.
+
+3.The definition of the function AwaitInput is in the functions.h file
