@@ -86,4 +86,7 @@ void AwaitInput(string input);
 
 
 void printHelp();
+
+/*Destroys all patterns of the song and normalizes the notes starting from left to right*/
+void normalizeNotes(map<int, vector<note>>& mapNotes);
 #endif

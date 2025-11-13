@@ -10,7 +10,7 @@
 #include <chrono>
 #include "functions.h"
 
-
+//I was stupid when started this sorry
 using namespace std;
 
 // class note{
@@ -620,4 +620,13 @@ void printHelp(){
     << "nerf: nerfs the map" << endl
     << "exit: closes the application" << endl;
 
+}
+
+void normalizeNotes(map<int, vector<note>>& mapNotes){
+    for (auto& entry : mapNotes){
+        vector<note>* chord = &entry.second;
+        for (int i = 0; i < chord->size(); i++){
+            if
+        }
+    }
 }
