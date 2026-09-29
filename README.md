@@ -1,4 +1,6 @@
 # Omania-map-modifier
+This repository is obsolete and I do plan to rework everything here in the future (2026/09/29)
+
 A program to simply modify some structures of a osu!mania map
 
 How to use (not final):
